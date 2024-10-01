@@ -1,0 +1,16 @@
+# Ignore all .idea folder contents
+.idea/
+
+# Except for useful files that can be shared
+!.idea/modules.xml
+!.idea/vcs.xml
+!.idea/runConfigurations/
+!.idea/workspace.xml
+!.idea/libraries/
+
+# Ignore IntelliJ project-specific files
+*.iml
+*.iws
+
+# Ignore build output directories
+/out/
